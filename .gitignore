@@ -22,6 +22,7 @@ public/plugins/*
 /coverage/*
 
 /public/assets/*
+/public/tombstone/*
 /bundle/*
 
 config/discourse.pill
